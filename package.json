@@ -1,0 +1,1 @@
+{"description":"A one-line fortune for a houseplant on the windowsill — make.fun entry","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-golden-heron-44-fortune-in-a-pot-ded981e9-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
